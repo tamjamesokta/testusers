@@ -1,0 +1,63 @@
+[
+    {
+      "email": "alice@example.com",
+      "email_verified": true,
+      "user_id": "ext_alice01",
+      "name": "Alice Smith",
+      "given_name": "Alice",
+      "family_name": "Smith",
+      "nickname": "Ally",
+      "username": "alice01",
+      "blocked": false,
+      "password_hash": "$2b$10$z6b0nRPLV.XxODpQHv6PCuBrz5KUub9e8K3yr0Mc1gM3LS7Og5rXy"
+    },
+    {
+      "email": "bob@example.com",
+      "email_verified": false,
+      "user_id": "ext_bob02",
+      "name": "Bob Jones",
+      "given_name": "Bob",
+      "family_name": "Jones",
+      "nickname": "Bobby",
+      "username": "bob02",
+      "blocked": false,
+      "password_hash": "$2b$10$E1VvEBO.QBnRw.z3XfYqcu5HMG6iS9UCrMREzKk5SRzhFUZ7zzCvK"
+    },
+    {
+      "email": "carla@example.com",
+      "email_verified": true,
+      "user_id": "ext_carla03",
+      "name": "Carla Diaz",
+      "given_name": "Carla",
+      "family_name": "Diaz",
+      "nickname": "Car",
+      "username": "carla03",
+      "blocked": false,
+      "password_hash": "$2b$10$k8trF5.H2zzcC9lOXYAeeepnA0GZ8rFzFT9JUNS4YOMy4cUOvMqiO"
+    },
+    {
+      "email": "david@example.com",
+      "email_verified": false,
+      "user_id": "ext_david04",
+      "name": "David Kim",
+      "given_name": "David",
+      "family_name": "Kim",
+      "nickname": "DK",
+      "username": "david04",
+      "blocked": false,
+      "password_hash": "$2b$10$x4z6WgGiGjkgkWh9GnQrOOCUgh1nL3f8D4QhBaA1F52bdf9TVZ1IW"
+    },
+    {
+      "email": "ella@example.com",
+      "email_verified": true,
+      "user_id": "ext_ella05",
+      "name": "Ella Zhao",
+      "given_name": "Ella",
+      "family_name": "Zhao",
+      "nickname": "Elle",
+      "username": "ella05",
+      "blocked": false,
+      "password_hash": "$2b$10$Jlmd9LzI4BLoYzqpQnKBgOmI6AOY6Ix.lz8dFHeZRSbR5L4eKOBMa"
+    }
+  ]
+  

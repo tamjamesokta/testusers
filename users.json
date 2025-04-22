@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "email": "user1@example.com",
+      "password": "$2b$10$rJkRGdCtaKe08IbfFL5iaO.Yc1nKZQmA6aaZNKPJmHmD2vxDfjh7.",
+      "connection": "Username-Password-Authentication"
+    },
+    {
+      "email": "user2@example.com",
+      "password": "$2b$10$usI6UNWFeUoWNiT2J9p5xeGOrcAH7oXBSGfojqHZKiCfE00dNbXwC",
+      "connection": "Username-Password-Authentication"
+    
+    }
+  ]
+}

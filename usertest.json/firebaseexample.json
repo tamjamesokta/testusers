@@ -1,0 +1,29 @@
+
+  [
+     {  
+        "email": "carmella@contoso.com",
+        "email_verified": false,
+        "custom_password_hash": {
+            "algorithm": "scrypt",
+            "hash": {
+                "value": "097f6197e1b41538f723e32aa7a68e8d76227d8e432ce5faa4882a913032db29",
+                "encoding": "hex"
+            },
+            "salt": {
+                "value": "abc123",
+                "encoding": "utf8"
+            },
+            "keylen": 32,
+            "cost": 4096
+        },
+      "user_id": "carmella",
+      "name": "carmella",
+      "given_name": "carmella",
+      "family_name": "carmella",
+      "nickname": "carmella",
+      "username": "carmella01",
+      "blocked": false
+      }
+      
+    ]
+  

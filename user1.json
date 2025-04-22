@@ -1,0 +1,7 @@
+{
+ "name": "Test User",
+ "email": "test@user.com",
+ "email_verified": true,
+ "nickname": "test",
+ "password_hash": "$2b$10$usI6UNWFeUoWNiT2J9p5xeGOrcAH7oXBSGfojqHZKiCfE00dNbXwC"
+}
